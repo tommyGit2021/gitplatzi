@@ -39,3 +39,13 @@ body {
 #container p{
     margin: 1em;
 }
+
+#footer{
+    background: #33A;
+    margin: 0;
+}
+
+#footer #foot{
+    color: white;
+    padding: 0.5em;
+}
