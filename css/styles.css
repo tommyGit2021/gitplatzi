@@ -1,25 +1,37 @@
 body {
+    background: #333;
     color: #333;
     text-align: center;
-    font-family:'Courier New', Courier, monospace;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 16px;
     margin: 0;
     padding: 0;
 }
 
 #header {
-   background: #33A;
+   background: #37488b;
    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
    color: white;
    font-weight: bold;
    margin: 0;
-   padding: 0.5em; 
+   padding: 1.5em; 
+}
+
+#header #logo{
+    width: 50px;
+    vertical-align: middle;
+    padding: 5px;
 }
 
 #header #tagline{
     padding: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
+}
+
+#post{
+    background: white;
+    padding: 1em;
 }
 
 #container{
