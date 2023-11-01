@@ -1,9 +1,9 @@
-#hyperblog 2.0
+# hyperblog 2.0
 Un blog de aprendizaje para el curso de Git y Github hecho en la academia Platzi
 >Este curso realizado en platzi tiene como objetivo ayudarme a poder utilizar un repositorio tanto a nivel personal como profesional. Pretendo usar estos repositorios como almacenaje de mis sitios web cómo ayuda para mis proyectos open source realizados en la empresa para la que trabajo.
 > - Tomás Vidal
 
-####En este curso vemos de todo lo pertinente para usar un repositorio tanto local como remoto:
+#### En este curso vemos de todo lo pertinente para usar un repositorio tanto local como remoto:
 - Todos los comandos de Git.
 - El flujo de trabajo en Github.
 - El verdadero amor por las buenas prácticas.
